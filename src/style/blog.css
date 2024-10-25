@@ -1,0 +1,99 @@
+
+
+.blog-container{
+    width: 100%;
+    height: 100%;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+  }
+  .blog-container2{
+    width: 80%;
+    height: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+  }
+  
+  .blog-header-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 75%;
+    text-align: center;
+  
+  }
+  .blog-title{
+    font-size: 30px;
+    font-weight: bold;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  .blog-des{
+    font-size: 15px;
+    padding-top: 10px;
+  }
+  .blog-box-container{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 30px;
+    align-items: center;
+  }
+  .blog-box{
+    width: 310px;
+    height: 400px;
+    margin: 10px;
+    background-color: #FFFFFF;
+    box-shadow: 1px 1px 8px 6px #E4E6EB;
+    /* padding: 15px 20px; */
+  }
+  .blog-images{
+    width: 100%;
+    height: 220px;
+    
+  }
+  @media screen and (min-width: 100px) and (max-width: 400px){
+    .blog-box{
+      height: 100%;
+    }
+}
+  @media screen and (min-width: 100px) and (max-width: 768px){
+    .blog-title{
+      font-size: 20px;
+    }
+  }
+  .web-heading{
+    font-size: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    padding-top: 10px;
+    padding-left: 7px;
+  }
+  .web-title{
+    font-size: 15px;
+    padding-top: 5px;
+    padding-left: 7px;
+    padding-bottom: 12px;
+  }
+  .watch-btn{
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  padding-left: 7px;
+    color: #FFB400;
+    font-weight: 500;
+    
+  }
+  .arrow{
+    padding-left: 2px;
+    font-size: 20px;
+  }
+ .AI{
+    margin-bottom: 20px;
+ }
