@@ -12,7 +12,7 @@ function Services(){
                  {/* top div */}
               <div className="Services-header-box">
                 <h1 className="ser-title">My Services</h1>
-                <p className="ser-des">Offering complete web solutions from development to design and optimization. Whether it's a stunning website, seamless user experience, or quick troubleshooting, I provide reliable services to meet your digital needs</p>
+                <p className="ser-des">Offering complete web solutions from development to design and optimization. Whether it&apos;s a stunning website, seamless user experience, or quick troubleshooting, I provide reliable services to meet your digital needs</p>
               </div>
               {/* boxes div */}
               <div className="boxes-container">
