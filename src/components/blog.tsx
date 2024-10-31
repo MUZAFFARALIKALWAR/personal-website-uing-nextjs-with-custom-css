@@ -18,7 +18,7 @@ function Blog(){
               {/* boxes div */}
               <div className="blog-box-container">
               <div className="blog-box">
-                <Image src={"/images/Ecommerce.jfif"}
+                <Image src={"/images/blog2.png"}
                 width={100}
                 height={100}
                 className="blog-images"
