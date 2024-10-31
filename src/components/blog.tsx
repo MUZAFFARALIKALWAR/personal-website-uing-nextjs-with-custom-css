@@ -18,7 +18,7 @@ function Blog(){
               {/* boxes div */}
               <div className="blog-box-container">
               <div className="blog-box">
-                <Image src={"/images/blog2.png"}
+                <Image src={"/Ecommerce.jfif"}
                 width={100}
                 height={100}
                 className="blog-images"
@@ -27,7 +27,7 @@ function Blog(){
                 <p className="web-title">I built a responsive e-commerce site with Next.js and Tailwind CSS, tackling state management and cross-device compatibility challenges.</p>
                 <Link className="watch-btn1" href={"https://youtu.be/baLdGxd9FBA?si=2PhNk_Om7NidHNO0"}>Watch Now <HiMiniArrowTopRightOnSquare className="arrow"/></Link>              </div>
               <div className="blog-box">
-                <Image src={"/images/businesscard.jfif"}
+                <Image src={"/businesscard.jfif"}
                 width={100}
                 height={100}
                 className="blog-images"
@@ -36,7 +36,7 @@ function Blog(){
                 <p className="web-title">I designed a professional business card emphasizing simplicity and branding to create a lasting impression and convey essential information effectively.</p>
                 <Link className="watch-btn2" href={"/"}>Watch Now <HiMiniArrowTopRightOnSquare className="arrow"/></Link>              </div>
               <div className="blog-box">
-                <Image src={"/images/Ai.jfif"}
+                <Image src={"/Ai.jfif"}
                 width={100}
                 height={100}
                 className="blog-images"
