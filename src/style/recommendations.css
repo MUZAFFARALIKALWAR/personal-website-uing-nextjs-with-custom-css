@@ -5,6 +5,7 @@
     height: 100%;
     margin-top: 50px;
     display: flex;
+    max-width: 1500px;
     justify-content: center;
     align-items: center;
   

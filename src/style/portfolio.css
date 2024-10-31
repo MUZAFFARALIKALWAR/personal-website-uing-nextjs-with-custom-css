@@ -6,6 +6,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    max-width: 1500px;
   
   }
   .portfolio-container2{
@@ -57,7 +58,7 @@
   /* back images */
  
  .box-images{
-    width: 300px;
+    width: 100%;
     height: 216px;
     opacity: 1;
   }
@@ -70,7 +71,9 @@
     cursor:pointer;
   }
   
-  
+  .port-links li{
+    list-style-type: none;
+  }
    .port-link-container{
     width: 70%;
     padding-top: 15px;

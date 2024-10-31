@@ -19,7 +19,7 @@ function Aboutus(){
 
                    <ul className="social-links">
                     <li>
-                        <Link href={"//"}><IoLogoYoutube className="youtube"/></Link>
+                        <Link href={"https://www.youtube.com/@muzaffaritacademy"}><IoLogoYoutube className="youtube"/></Link>
                     </li>
                     <li>
                         <Link href={"//"}><FaFacebook className="facebook"/></Link>

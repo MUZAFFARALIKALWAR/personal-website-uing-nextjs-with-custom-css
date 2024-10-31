@@ -18,15 +18,14 @@ function Herro(){
                        alt="profile-pic" ></Image>
                     </div>
                </div>
-
-               {/* left */}
+               {/* left */} 
                <div className="hero-left">
                     <div className="hero-content-box"></div>
                    <h1 className="herro-heading">I&apos;m Muzaffar Ali  <br />
                     <p className="fornt-end">Front-end</p> Developer</h1>
                    <p className="hero-pragrahp">Web Developer with a knack for solving complex coding challenges. &quot;
-                     Expert in debugging and optimizing web applications.
-                     "Turning errors into smooth, functional solutions.</p>
+                     Expert in debugging and optimizing web applications&quot;.
+                     Turning errors into smooth, functional solutions.</p>
                    <button className="hero-btn">HIRE ME <HiMiniArrowTopRightOnSquare className="arrow-btn"/></button>
 
                </div>

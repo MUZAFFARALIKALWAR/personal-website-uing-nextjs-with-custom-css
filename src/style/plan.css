@@ -7,6 +7,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    max-width: 1500px;
   
   }
   .plan-container2{
@@ -64,6 +65,7 @@
     font-size: 16px;
     opacity: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: none;
     transition: opacity 1s;
   }
   
@@ -121,6 +123,8 @@
     margin-top: 30px;
     margin-left: 13%;
     box-shadow: 1px 1px 8px 6px #E4E6EB;
+    border: none;
+    cursor: pointer;
   }
   .order-btn:hover{
     background-color: #FFB400;
@@ -129,5 +133,14 @@
   @media screen and (min-width: 100px) and (max-width: 768px){
     .plan-title{
       font-size: 20px;
+    }
+    .plan-name{
+      font-size: 20px;
+    
+    }
+    .price-pan{
+      font-size: 20px;
+      font-weight: bold;
+       
     }
   }

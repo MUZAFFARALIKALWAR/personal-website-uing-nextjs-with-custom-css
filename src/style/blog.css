@@ -5,6 +5,7 @@
     height: 100%;
     margin-top: 50px;
     display: flex;
+    max-width: 1500px;
     justify-content: center;
     align-items: center;
   
@@ -67,6 +68,10 @@
     .blog-title{
       font-size: 20px;
     }
+    .blog-header-box{
+     width: 100%;
+    
+    }
   }
   .web-heading{
     font-size: 17px;
@@ -81,15 +86,37 @@
     padding-left: 7px;
     padding-bottom: 12px;
   }
-  .watch-btn{
+  .watch-btn1{
   display: flex;
   justify-content: start;
   align-items: center;
   padding-left: 7px;
     color: #FFB400;
     font-weight: 500;
-    
+    margin-top: 40px;
+    text-decoration: none;
   }
+  .watch-btn2{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    padding-left: 7px;
+      color: #FFB400;
+      font-weight: 500;
+      margin-top: 26px;
+      text-decoration: none;
+    }
+    .watch-btn3{
+      display: flex;
+      justify-content: start;
+      align-items: center;
+      padding-left: 7px;
+        color: #FFB400;
+        font-weight: 500;
+        margin-top: 40px;
+        text-decoration: none;
+      }
+      
   .arrow{
     padding-left: 2px;
     font-size: 20px;
