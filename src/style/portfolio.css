@@ -66,7 +66,7 @@
     opacity: 0.3;
   }
    .portfolio-box{
-    background-color: #FFB400;
+    background-color: #49494a;
     transition: all 2s ease-in-out 2s;
     cursor:pointer;
   }
@@ -87,7 +87,7 @@
     font-weight: 600;
   }
   .port-links li:hover{
-    color: #FFB400;
+    color: #49494a;
     cursor: pointer;
   }
   .plus-icon{
@@ -96,6 +96,7 @@
     left: 43%;
     top: 40%;
     opacity: 0;
+    color: #FFFFFF;
     
   }
   .portfolio-box:hover .plus-icon{

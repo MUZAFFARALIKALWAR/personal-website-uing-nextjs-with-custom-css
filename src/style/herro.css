@@ -3,7 +3,7 @@
 .herro-container{
     /* margin-top: 40px; */
     width: 100%;
-    height: 350px;
+    height: 400px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -15,7 +15,7 @@
     display: flex;
     justify-content: space-between;
     align-items: start;
-    padding: 40px;
+    padding: 30px 60px 30px 60px ;
     background-color: #FFFFFF;
     border-radius: 2px;
     /* box-shadow: 1px 1px 8px 6px #E4E6EB; */
@@ -25,34 +25,37 @@
   }
   .herro-heading{
     font-size: 45px;
+    color: #414142;
     font-weight: 600;
     line-height: 40px;
    font-family:Georgia, 'Times New Roman', Times, serif;
   }
   .fornt-end{
-    color: #facd07;
+    
     display: inline;
    
   }
   .hero-pragrahp{
     font-size: 20px;
+    color: #414142;
     padding-top: 25px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   }
   .hero-btn{
     padding: 7px 20px 7px 20px;
-    background-color: #facd07;
+    background-color: #565657;
     font-weight: 600;
     font-size: 18px;
     border-radius: 3px;
     margin-top: 30px;
     cursor: pointer;
+    color: #FFFFFF;
     display: flex;
     align-items: center;
     border: none;
   }
   .hero-btn:hover{
-    background-color: #ffb300db;
+    background-color: #414142;
   }
   /* sm screen */
   .hero-right{
@@ -102,8 +105,8 @@
       
     }
     .image-hero{
-      width: 120px;
-      height: 120px;
+      width: 100px;
+      height: 100px;
       border-radius: 50%;
     }
   
@@ -113,7 +116,7 @@
      
     }
     .box-cntainer{
-      width: 80%;
+      width: 100%;
       display: flex;
       flex-direction: column;
       justify-content: center;

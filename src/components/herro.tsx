@@ -11,7 +11,7 @@ function Herro(){
                  <div className="hero-right">
                     {/* image */}
                     <div className="hero-image-box">
-                       <Image src={"/images/muzaffar.png"}
+                       <Image src={"/images/khan78.jpeg"}
                         width={200}
                         height={200}
                         className="image-hero"
@@ -34,7 +34,7 @@ function Herro(){
                <div className="hero-right2">
                     {/* image */}
                     <div className="hero-image-box2">
-                       <Image src={"/images/muzaffar.png"}
+                       <Image src={"/images/khan78.jpeg"}
                         width={200}
                         height={200}
                         className="image-hero"
